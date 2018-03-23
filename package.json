@@ -1,14 +1,13 @@
 {
-  "name": "react-foursquare",
+  "name": "react-foursquare-es5-mod",
   "version": "1.0.2",
   "description": "This is a foursquare library for react",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/foursquare/react-foursquare.git"
+    "url": "git+https://github.com/Robert-G-J/react-foursquare.git"
   },
   "keywords": [
     "react-component",
@@ -19,10 +18,10 @@
     "fsq",
     "fetch"
   ],
-  "author": "Gareth Paul Jones",
+  "author": "Gareth Paul Jones & RG Jones",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/foursquare/react-foursquare/issues"
+    "url": "https://github.com/Robert-G-J/react-foursquare/issues/"
   },
   "homepage": "https://github.com/foursquare/react-foursquare#readme"
 }
